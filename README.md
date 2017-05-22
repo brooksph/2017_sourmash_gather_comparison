@@ -23,11 +23,16 @@ chmod u-w fastq/*
 cd work 
 cp ../fastq/* .
 
-#Evalute read quality 
-fastqc *fq.gz 
+#Evalute read quality using FastQC (version 0.11.5) 
+mkdir ../fastqc/before_trim
+fastqc *fq.gz --outdir ../fastqc/before_trim/ 
 
-#Trim reads based on quality scores in sliding window 
+#Trim reads based on quality scores in sliding window Trimmomatic (version 0.36)
 ./../scripts/trim.sh
+
+#Evalute read quality using FastQC (version 0.11.5)
+mkdir ../fastqc/after_trim
+fastqc *fq.gz --outdir ../fastqc/after_trim/
 
 #Interleave reads 
 ./../interleave_reads.sh

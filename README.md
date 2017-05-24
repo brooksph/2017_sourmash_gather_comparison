@@ -35,13 +35,13 @@ mkdir ../fastqc/after_trim
 fastqc *fq.gz --outdir ../fastqc/after_trim/
 
 #Interleave reads 
-./../interleave_reads.sh
+./../scripts/interleave_reads.sh
 
 #Trim errant kmers from reads using khmer 
-./../abundtrim.sh
+./../scripts/abundtrim.sh
 
 #Calculate minhash signatures for reads
-./../compute.sh
+./../scripts/compute.sh
 
 #Build database with knowns and compare to sbt with RefSEQ and Genbank 
 

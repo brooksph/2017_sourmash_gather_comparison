@@ -4,5 +4,5 @@
 
 for i in *sig 
 do 
-	~/dev/sourmash/sourmash gather microbes.k31.sbt *sig --csv ${i}_sbt_gather_output.csv
+	~/sourmash/sourmash gather ../sbt/microbes.k31.sbt *sig --csv ${i}_sbt_gather_output.csv
 done 

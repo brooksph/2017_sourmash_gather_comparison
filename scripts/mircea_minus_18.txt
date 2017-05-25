@@ -1,4 +1,4 @@
-# List list contains the name of 48 organism present in the mircea data illumina reads based on assembly and mapping analysis 
+# List list contains the name of 47 organism present in the mircea data illumina reads based on assembly and mapping analysis 
 
 Acidobacterium_capsulatum_ATCC_51196
 Aciduliprofundum_boonei_T469

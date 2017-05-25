@@ -1,0 +1,65 @@
+intersect_bp,f_orig_query,f_match,f_unique_to_query,name,filename,md5
+9200000.0,0.0466153222537,1.0,0.0466153222537,"NC_007951.1 Burkholderia xenovorans LB400 chromosome 1, complete sequence",../sbt/mircea_refs.sbt.json,916b89e38f67144f3791d27442ccdf64
+6920000.0,0.0350628293474,1.0,0.0350628293474,"BA000019.2 Nostoc sp. PCC 7120 DNA, complete genome",../sbt/mircea_refs.sbt.json,6a3ef68ec961597ada7e315a22c93fc1
+6830000.0,0.0346068098906,1.0,0.0346068098906,BX119912.1 Rhodopirellula baltica SH 1 complete genome,../sbt/mircea_refs.sbt.json,412713fcfff87cee510ca8c1b304e628
+6150000.0,0.0311613295501,1.0,0.0311613295501,"AE015928.1 Bacteroides thetaiotaomicron VPI-5482, complete genome",../sbt/mircea_refs.sbt.json,1003436a5cf6b30217c420df0ee8785c
+5820000.0,0.0294892582084,1.0,0.0294892582084,"CP000875.1 Herpetosiphon aurantiacus DSM 785, complete genome",../sbt/mircea_refs.sbt.json,b85137eeb87857e40d9aa280518d2ba8
+5720000.0,0.028982569923,1.0,0.028982569923,"CP000850.1 Salinispora arenicola CNS-205, complete genome",../sbt/mircea_refs.sbt.json,a30e30043c2fe202337fac8200dd5df9
+5490000.0,0.0278171868666,1.0,0.0278171868666,"NZ_JGWU01000001.1 Bordetella bronchiseptica D989 ctg7180000008197, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,43bf2ab71184f0214e6f5cccc56a2e96
+5290000.0,0.0268038102959,1.0,0.0268038102959,"AE010299.1 Methanosarcina acetivorans str. C2A, complete genome",../sbt/mircea_refs.sbt.json,2a7ba3e7c0bb3f08fcf1f8898e4671be
+5250000.0,0.0266011349818,1.0,0.0266011349818,"CP001252.1 Shewanella baltica OS223, complete genome",../sbt/mircea_refs.sbt.json,13469b1351cfb34693b0d4d14e9a6fa1
+5230000.0,0.0264997973247,1.0,0.0264997973247,"CP000909.1 Chloroflexus aurantiacus J-10-fl, complete genome",../sbt/mircea_refs.sbt.json,8e6381f9a934dff4091c5771c7af3d7e
+5170000.0,0.0261957843535,0.992263056093,0.0259931090393,"CP000139.1 Bacteroides vulgatus ATCC 8482, complete genome",../sbt/mircea_refs.sbt.json,f29a9ed10f4b9d61aa0c1483f3fbc412
+5030000.0,0.025486420754,0.996023856859,0.0253850830969,"CP001013.1 Leptothrix cholodnii SP-6, complete genome",../sbt/mircea_refs.sbt.json,3fd16b6d67e0aea55f0789ddcc0fa7e2
+4960000.0,0.0251317389542,0.943548387097,0.0237130117552,"CP000667.1 Salinispora tropica CNB-440, complete genome",../sbt/mircea_refs.sbt.json,bc31ee055f876cfc74edbb2bf39de704
+4500000.0,0.0228009728415,1.0,0.0228009728415,"AP009153.1 Gemmatimonas aurantiaca T-27 DNA, complete genome",../sbt/mircea_refs.sbt.json,be9b3925a161c943fea66a643a21d256
+4310000.0,0.0218382650993,0.997679814385,0.0217875962708,"CP000031.2 Ruegeria pomeroyi DSS-3, complete genome",../sbt/mircea_refs.sbt.json,c72cdff60648a0a15af8e11c9057c816
+4290000.0,0.0217369274422,1.0,0.0217369274422,"CP001472.1 Acidobacterium capsulatum ATCC 51196, complete genome",../sbt/mircea_refs.sbt.json,775e0b298fba09a14d60f23f4a4045b0
+3890000.0,0.0197101743008,0.992287917738,0.0195581678152,"NZ_CH959317.1 Sulfitobacter sp. NAS-14.1 scf_1099451320472, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,642304357ab659b18008e18517d5e5e1
+3740000.0,0.0189501418727,1.0,0.0189501418727,"NC_013968.1 Haloferax volcanii DS2 plasmid pHV1, complete sequence",../sbt/mircea_refs.sbt.json,50bc5bc5511b0b266d0fd63934948119
+3730000.0,0.0188994730442,1.0,0.0188994730442,"CP000568.1 Clostridium thermocellum ATCC 27405, complete genome",../sbt/mircea_refs.sbt.json,75794974b6fce4fbd58ed03a77ca35e6
+3620000.0,0.0183421159303,1.0,0.0183421159303,"AE017180.2 Geobacter sulfurreducens PCA, complete genome",../sbt/mircea_refs.sbt.json,dff5200676375751e20d3122d6a015af
+3370000.0,0.0170753952169,1.0,0.0170753952169,"CP000527.1 Desulfovibrio vulgaris DP4, complete genome",../sbt/mircea_refs.sbt.json,556a944351bb3d862149e1148e5c0796
+3340000.0,0.0169233887313,1.0,0.0169233887313,"NZ_CP015081.1 Deinococcus radiodurans R1 chromosome 1, complete sequence",../sbt/mircea_refs.sbt.json,818c025107c52a55a52edbdc524738c8
+3070000.0,0.0155553303608,1.0,0.0155553303608,"NZ_KE136524.1 Enterococcus faecalis V583 acyDH-supercont2.1, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,2492dfe9605d635dd0c2e13e8863506f
+3010000.0,0.0152513173895,1.0,0.0152513173895,"CP000492.1 Chlorobium phaeobacteroides DSM 266, complete genome",../sbt/mircea_refs.sbt.json,9c25e3eb448001e2631bab1e34f40923
+2980000.0,0.0150993109039,1.0,0.0150993109039,"NZ_FWDH01000003.1 Caldicellulosiruptor bescii strain MACB1021, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,c0c28f9ed1ecf99e425176180902acc1
+2940000.0,0.0148966355898,1.0,0.0148966355898,"AE017226.1 Treponema denticola ATCC 35405, complete genome",../sbt/mircea_refs.sbt.json,b8672c7ef432ff9b7e01fa8411745b9a
+2940000.0,0.0148966355898,0.996598639456,0.0148459667612,"CP001097.1 Chlorobium limicola DSM 245, complete genome",../sbt/mircea_refs.sbt.json,fcd5ba3221b7b278084511425654e372
+2890000.0,0.0146432914471,0.993079584775,0.01454195379,"CP001110.1 Pelodictyon phaeoclathratiforme BU-1, complete genome",../sbt/mircea_refs.sbt.json,4975709f77cedf6bfc4199114dcaed1e
+2800000.0,0.0141872719903,1.0,0.0141872719903,"BA000023.2 Sulfolobus tokodaii str. 7 DNA, complete genome",../sbt/mircea_refs.sbt.json,182ea3fbe9e85d8f786fd66014c68ae3
+2740000.0,0.0138832590191,1.0,0.0138832590191,"CP001071.1 Akkermansia muciniphila ATCC BAA-835, complete genome",../sbt/mircea_refs.sbt.json,1c9d86e323f9246f6f9315fbe7dcaa6a
+2730000.0,0.0138325901905,0.996336996337,0.013781921362,"NZ_DS996397.1 Desulfovibrio piger ATCC 29098 Scfld442, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,13fe848bfe3738dd8bf92bd39d2681e9
+2750000.0,0.0139339278476,0.938181818182,0.0130725577625,"CP000679.1 Caldicellulosiruptor saccharolyticus DSM 8903, complete genome",../sbt/mircea_refs.sbt.json,b495afa48ce7918719c76e801574dc6f
+2460000.0,0.01246453182,1.0,0.01246453182,"AL954747.1 Nitrosomonas europaea ATCC 19718, complete genome",../sbt/mircea_refs.sbt.json,e9a6201d79d7db2ab1cb63029ba72cf9
+5090000.0,0.0257904337252,0.471512770138,0.0121605188488,"CP000753.1 Shewanella baltica OS185, complete genome",../sbt/mircea_refs.sbt.json,fae2517d10c4992375f542a85e5beb29
+2170000.0,0.0109951357925,0.995391705069,0.0109444669639,"AE006470.1 Chlorobium tepidum TLS, complete genome",../sbt/mircea_refs.sbt.json,c42123582acc7e650fe688331e42b53a
+2120000.0,0.0107417916498,1.0,0.0107417916498,"AE000782.1 Archaeoglobus fulgidus DSM 4304, complete genome",../sbt/mircea_refs.sbt.json,4efc73bcead0c295419c4cdfcbcbfbba
+2090000.0,0.0105897851642,1.0,0.0105897851642,"AP009380.1 Porphyromonas gingivalis ATCC 33277 DNA, complete genome",../sbt/mircea_refs.sbt.json,fbd9313fc183cf7d258b2941e7e5c758
+2100000.0,0.0106404539927,0.995238095238,0.0105897851642,"AE009951.2 Fusobacterium nucleatum subsp. nucleatum ATCC 25586, complete genome",../sbt/mircea_refs.sbt.json,afc2afe96fd88bb6337838b1e53ffe30
+2070000.0,0.0104884475071,1.0,0.0104884475071,"BX571656.1 Wolinella succinogenes DSM 1740, complete genome",../sbt/mircea_refs.sbt.json,7b6d227f3de8502d5dca373b1fa507ca
+2060000.0,0.0104377786786,1.0,0.0104377786786,"AE009441.1 Pyrobaculum aerophilum str. IM2, complete genome",../sbt/mircea_refs.sbt.json,ed80ba77a4c3093bdf23b2ae9b68182a
+2070000.0,0.0104884475071,0.995169082126,0.0104377786786,"NZ_KQ961402.1 Zymomonas mobilis strain ATCC 31823 Scaffold1, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,89f9607885a10042c72635413c630142
+2060000.0,0.0104377786786,1.0,0.0104377786786,"CP000660.1 Pyrobaculum arsenaticum DSM 13514, complete genome",../sbt/mircea_refs.sbt.json,e4b182bc477ca216ee774ee2af0d303c
+2000000.0,0.0101337657073,0.995,0.0100830968788,"CP000607.1 Chlorobium phaeovibrioides DSM 265, complete genome",../sbt/mircea_refs.sbt.json,9ce67910f9e31d80325880aad9b67739
+1980000.0,0.0100324280503,1.0,0.0100324280503,"CP000916.1 Thermotoga neapolitana DSM 4359, complete genome",../sbt/mircea_refs.sbt.json,4ebe28f1c4353eae50c40352fe7895e2
+1980000.0,0.0100324280503,1.0,0.0100324280503,"CP001251.1 Dictyoglomus turgidum DSM 6724, complete genome",../sbt/mircea_refs.sbt.json,9c6415755533e05d6d23c69709d15794
+1940000.0,0.00982975273612,1.0,0.00982975273612,"CP000924.1 Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome",../sbt/mircea_refs.sbt.json,fa4912b4272fbba8980fd139779fcca2
+1900000.0,0.00962707742197,1.0,0.00962707742197,"CP000561.1 Pyrobaculum calidifontis JCM 11548, complete genome",../sbt/mircea_refs.sbt.json,d1386c166455ca0bbdda0fda10e7041d
+1890000.0,0.00957640859343,1.0,0.00957640859343,"NC_010730.1 Sulfurihydrogenibium sp. YO3AOP1, complete genome",../sbt/mircea_refs.sbt.json,214b6265b604c147612391de4e5a1b2e
+1870000.0,0.00947507093636,1.0,0.00947507093636,"CP001230.1 Persephonella marina EX-H1, complete genome",../sbt/mircea_refs.sbt.json,bd5eb6654b4a6204c190596d405e83de
+3450000.0,0.0174807458452,0.539130434783,0.00942440210782,"NZ_CH959311.1 Sulfitobacter sp. EE-36 scf_1099451318005, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,4431c63d0dda6d86f7b61e393ba88a24
+1850000.0,0.00937373327929,0.994594594595,0.00932306445075,"AE017221.1 Thermus thermophilus HB27, complete genome",../sbt/mircea_refs.sbt.json,43b98640777cc7fc2982f18b2b6cd72d
+1830000.0,0.00927239562221,1.0,0.00927239562221,"AE009439.1 Methanopyrus kandleri AV19, complete genome",../sbt/mircea_refs.sbt.json,a41535d1802a7bb391351bf117c31c0e
+1820000.0,0.00922172679368,1.0,0.00922172679368,"AE009950.1 Pyrococcus furiosus DSM 3638, complete genome",../sbt/mircea_refs.sbt.json,7969c0ac3e39f50df3e21a173d0c3f25
+1850000.0,0.00937373327929,0.935135135135,0.00876570733685,"CP000702.1 Thermotoga petrophila RKU-1, complete genome",../sbt/mircea_refs.sbt.json,2d451eabab1dd090fb6f610a3e5c3841
+1650000.0,0.00836035670855,1.0,0.00836035670855,"CP000609.1 Methanococcus maripaludis C5, complete genome",../sbt/mircea_refs.sbt.json,14c14d73ec446b9e69516c162e0cc226
+1650000.0,0.00836035670855,1.0,0.00836035670855,"BA000001.2 Pyrococcus horikoshii OT3 DNA, complete genome",../sbt/mircea_refs.sbt.json,5663f04e236ea68e9e5da96b7f0d5b30
+1540000.0,0.00780299959465,1.0,0.00780299959465,"CP001130.1 Hydrogenobaculum sp. Y04AAS1, complete genome",../sbt/mircea_refs.sbt.json,c87d602962a18b288b7701bc1de53f78
+1520000.0,0.00770166193758,1.0,0.00770166193758,"L77117.1 Methanocaldococcus jannaschii DSM 2661, complete genome",../sbt/mircea_refs.sbt.json,70eacf0603c0fe2e99e76f1d49847cc2
+1560000.0,0.00790433725172,0.955128205128,0.00754965545197,"BX950229.1 Methanococcus maripaludis strain S2, complete sequence",../sbt/mircea_refs.sbt.json,4f93b6eae4a979689fec11a8ee4b6c44
+1410000.0,0.00714430482367,1.0,0.00714430482367,"CP001941.1 Aciduliprofundum boonei T469, complete genome",../sbt/mircea_refs.sbt.json,85248f19d533adf92a96c94ae3bc154e
+1830000.0,0.00927239562221,0.754098360656,0.00699229833806,"NZ_ABZS01000228.1 Sulfurihydrogenibium yellowstonense SS-5 gcontig_18, whole genome shotgun sequence",../sbt/mircea_refs.sbt.json,139902a3ff9d8f6f6cdc5e8eeb8ad579
+1330000.0,0.00673895419538,1.0,0.00673895419538,"CP000816.1 Ignicoccus hospitalis KIN4/I, complete genome",../sbt/mircea_refs.sbt.json,0a41431b374ba5f32924d0d431062a84
+1830000.0,0.00927239562221,0.371584699454,0.00344548034049,"CP000969.1 Thermotoga sp. RQ2, complete genome",../sbt/mircea_refs.sbt.json,3e3a045fd95fb7930dd5908c0aa80c04
+400000.0,0.00202675314147,1.0,0.00202675314147,"NC_005213.1 Nanoarchaeum equitans Kin4-M chromosome, complete genome",../sbt/mircea_refs.sbt.json,72029f938a313ab339995fe34d4b203d

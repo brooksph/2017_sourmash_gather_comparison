@@ -1,7 +1,12 @@
-#This script computes minhash signatures using sourmash
+!#usr/bin/env bash 
 
-for i in *abundtrim 
-do 
-	~/dev/sourmash/sourmash compute -k 31 --scaled 10000 ${i}
-done 
+#load GNU and python
+module load GNU/6.2 
+module load python/2.7.2 
+
+#source virtual environment
+source ~/env/bin/activate
+
+#Compute minhash signatures using sourmash
+~/sourmash/sourmash compute -k 31 --scaled 1000 SRR606249.pe.qc.fq.gz.abundtrim.gz -f -o SRR606249.pe.qc.fq.abundtrim.1k.sig | gzip
 

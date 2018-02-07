@@ -72,7 +72,7 @@ rule calculate_signatures:
     input:
         'inputs/data/{sample}',
     output:
-        'output/classification/signatures/{sample}.sig',
+        'outputs/classification/signatures/{sample}.sig',
     message:
         '--- Compute sourmash signatures with quality trimmed data with sourmash'
     singularity:

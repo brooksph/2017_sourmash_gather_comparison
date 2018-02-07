@@ -1,0 +1,2 @@
+intersect_bp,f_orig_query,f_match,f_unique_to_query,f_unique_weighted,average_abund,name,filename,md5
+1600000,1.0,1.0,1.0,1.0,5.0,"NZ_KK365571.1 Campylobacter jejuni 10186 genomic scaffold scf_17351_1, whole genome shotgun sequence",inputs/databases/genbank-k51.sbt.json,239bf2b13a198d6bb800027348acab02
